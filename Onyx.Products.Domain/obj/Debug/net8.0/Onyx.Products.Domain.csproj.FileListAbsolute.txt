@@ -1,0 +1,15 @@
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/bin/Debug/net8.0/Onyx.Products.Domain.deps.json
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/bin/Debug/net8.0/Onyx.Products.Domain.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/bin/Debug/net8.0/Onyx.Products.Domain.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/bin/Debug/net8.0/Onyx.Products.Shared.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/bin/Debug/net8.0/Onyx.Products.Shared.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.csproj.AssemblyReference.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.AssemblyInfoInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.AssemblyInfo.cs
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.csproj.CoreCompileInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.csproj.CopyComplete
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/refint/Onyx.Products.Domain.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/Onyx.Products.Domain.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Domain/obj/Debug/net8.0/ref/Onyx.Products.Domain.dll

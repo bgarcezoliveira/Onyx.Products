@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Onyx.Products.Domain/1.0.0": {
+        "dependencies": {
+          "Onyx.Products.Shared": "1.0.0"
+        },
+        "runtime": {
+          "Onyx.Products.Domain.dll": {}
+        }
+      },
+      "Onyx.Products.Shared/1.0.0": {
+        "runtime": {
+          "Onyx.Products.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Onyx.Products.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Onyx.Products.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

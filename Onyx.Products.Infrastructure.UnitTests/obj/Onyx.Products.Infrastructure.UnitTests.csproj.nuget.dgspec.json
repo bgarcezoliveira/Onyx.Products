@@ -1,0 +1,221 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure.UnitTests/Onyx.Products.Infrastructure.UnitTests.csproj": {}
+  },
+  "projects": {
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure.UnitTests/Onyx.Products.Infrastructure.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure.UnitTests/Onyx.Products.Infrastructure.UnitTests.csproj",
+        "projectName": "Onyx.Products.Infrastructure.UnitTests",
+        "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure.UnitTests/Onyx.Products.Infrastructure.UnitTests.csproj",
+        "packagesPath": "/Users/boliveira/.nuget/packages/",
+        "outputPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure.UnitTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/boliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/Onyx.Products.Infrastructure.csproj": {
+                "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/Onyx.Products.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
+            "Moq.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1.2, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/Onyx.Products.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/Onyx.Products.Infrastructure.csproj",
+        "projectName": "Onyx.Products.Infrastructure",
+        "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/Onyx.Products.Infrastructure.csproj",
+        "packagesPath": "/Users/boliveira/.nuget/packages/",
+        "outputPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/boliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj": {
+                "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj",
+        "projectName": "Onyx.Products.Shared",
+        "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj",
+        "packagesPath": "/Users/boliveira/.nuget/packages/",
+        "outputPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/boliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

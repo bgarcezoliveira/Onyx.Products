@@ -1,0 +1,17 @@
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Infrastructure.deps.json
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Infrastructure.runtimeconfig.json
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Infrastructure.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Infrastructure.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Shared.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/bin/Debug/net8.0/Onyx.Products.Shared.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.csproj.AssemblyReference.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.AssemblyInfoInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.AssemblyInfo.cs
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.csproj.CopyComplete
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/refint/Onyx.Products.Infrastructure.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/Onyx.Products.Infrastructure.genruntimeconfig.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Infrastructure/obj/Debug/net8.0/ref/Onyx.Products.Infrastructure.dll

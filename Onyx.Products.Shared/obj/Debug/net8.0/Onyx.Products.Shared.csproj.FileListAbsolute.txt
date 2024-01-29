@@ -1,0 +1,11 @@
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/bin/Debug/net8.0/Onyx.Products.Shared.deps.json
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/bin/Debug/net8.0/Onyx.Products.Shared.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/bin/Debug/net8.0/Onyx.Products.Shared.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.AssemblyInfoInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.AssemblyInfo.cs
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.csproj.CoreCompileInputs.cache
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/refint/Onyx.Products.Shared.dll
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/Onyx.Products.Shared.pdb
+/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/Debug/net8.0/ref/Onyx.Products.Shared.dll

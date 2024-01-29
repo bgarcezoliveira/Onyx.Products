@@ -1,0 +1,131 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/Onyx.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/Onyx.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/Onyx.Client.csproj",
+        "projectName": "Onyx.Client",
+        "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/Onyx.Client.csproj",
+        "packagesPath": "/Users/boliveira/.nuget/packages/",
+        "outputPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/boliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj": {
+                "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "IdentityModel.AspNetCore": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj",
+        "projectName": "Onyx.Products.Shared",
+        "projectPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/Onyx.Products.Shared.csproj",
+        "packagesPath": "/Users/boliveira/.nuget/packages/",
+        "outputPath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Products.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/boliveira/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

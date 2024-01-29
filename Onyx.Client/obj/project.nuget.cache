@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjZlfx2eMIsInzXZXXnyC3Fotl1frwnJkf8H2XvotqtyoKoDYXvPe4QMTao001dowzQ24db//rKpZgOKrXEPLA==",
+  "success": true,
+  "projectFilePath": "/Users/boliveira/Documents/Projects/Sandbox/Onyx.Products/Onyx.Client/Onyx.Client.csproj",
+  "expectedPackageFiles": [
+    "/Users/boliveira/.nuget/packages/identitymodel/6.0.0/identitymodel.6.0.0.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/identitymodel.aspnetcore/4.3.0/identitymodel.aspnetcore.4.3.0.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/8.0.1/microsoft.aspnetcore.authentication.openidconnect.8.0.1.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.jsonwebtokens/7.1.2/microsoft.identitymodel.jsonwebtokens.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.protocols/7.1.2/microsoft.identitymodel.protocols.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/7.1.2/microsoft.identitymodel.protocols.openidconnect.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512",
+    "/Users/boliveira/.nuget/packages/system.identitymodel.tokens.jwt/7.1.2/system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
