@@ -56,7 +56,8 @@ public static class Config
                 ClientSecrets =
                 {
                     new Secret("secret123".Sha256())
-                }
+                },
+                RequireConsent = true
             }
         };
 }
