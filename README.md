@@ -21,6 +21,18 @@ INFO: The client interaction with the API wasn't fully integrated for this conce
 	- GET https://localhost:7217/api/products/color/{color}		(Secured endpoint, accessible by PublicUser and Admin - user1, user2)
 	- GET https://localhost:7217/api/healthz					(Public health status endpoint)
 	
-	The access code should be pasted into the "Authorization" section for type "Bearer", for the secured endpoints
+	- The access code should be pasted into the "Authorization" section for type "Bearer", for the secured endpoints
+	- Configured colours: 
+		Red,
+		White,
+		Blue,
+		Rose,
+		Purple,
+		Gold,
+		Silver,
+		Green,
+		Black,
+        Yellow,
+        Grey
 
 
